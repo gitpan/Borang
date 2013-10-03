@@ -1,0 +1,23 @@
+---
+abstract: 'Yet another form handling module'
+author:
+  - 'Steven Haryanto <stevenharyanto@gmail.com>'
+build_requires:
+  IO::Handle: 0
+  IPC::Open3: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300038, CPAN::Meta::Converter version 2.132510'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Borang
+requires:
+  perl: 5.010001
+resources:
+  homepage: http://metacpan.org/release/Borang
+  repository: http://github.com/sharyanto/perl-Borang
+version: 0.00
