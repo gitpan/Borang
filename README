@@ -2,15 +2,32 @@ NAME
     Borang - Yet another form handling module
 
 VERSION
-    version 0.00
+    version 0.01
 
 DESCRIPTION
     NOT YET IMPLEMENTED.
+
+FUNCTIONS
+    None are exported by default, but they are exportable.
 
 FAQ
   Why the name?
     Borang means form in Indonesian and is currently seldom used in daily
     conversations.
+
+HOMEPAGE
+    Please visit the project's homepage at
+    <https://metacpan.org/release/Borang>.
+
+SOURCE
+    Source repository is at <https://github.com/sharyanto/perl-ReForm>.
+
+BUGS
+    Please report any bugs or feature requests on the bugtracker website
+    <https://rt.cpan.org/Public/Dist/Display.html?Name=Borang>
+
+    When submitting a bug or request, please include a test-file or a patch
+    to an existing test-file that illustrates the bug or desired feature.
 
 AUTHOR
     Steven Haryanto <stevenharyanto@gmail.com>

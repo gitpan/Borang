@@ -34,6 +34,7 @@
       },
       "test" : {
          "requires" : {
+            "File::Spec" : "0",
             "IO::Handle" : "0",
             "IPC::Open3" : "0",
             "Test::More" : "0"
@@ -42,11 +43,16 @@
    },
    "release_status" : "stable",
    "resources" : {
-      "homepage" : "http://metacpan.org/release/Borang",
+      "bugtracker" : {
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=Borang"
+      },
+      "homepage" : "https://metacpan.org/release/Borang",
       "repository" : {
-         "url" : "http://github.com/sharyanto/perl-Borang"
+         "type" : "git",
+         "url" : "git://github.com/sharyanto/perl-ReForm.git",
+         "web" : "https://github.com/sharyanto/perl-ReForm"
       }
    },
-   "version" : "0.00"
+   "version" : "0.01"
 }
 

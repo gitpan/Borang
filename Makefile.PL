@@ -21,11 +21,12 @@ my %WriteMakefileArgs = (
   "NAME" => "Borang",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {
+    "File::Spec" => 0,
     "IO::Handle" => 0,
     "IPC::Open3" => 0,
     "Test::More" => 0
   },
-  "VERSION" => "0.00",
+  "VERSION" => "0.01",
   "test" => {
     "TESTS" => "t/*.t"
   }
